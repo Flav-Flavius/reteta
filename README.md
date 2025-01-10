@@ -7,7 +7,7 @@ This project is a simple, visually appealing webpage designed to showcase a trad
 - **Recipe Details**: Includes a full list of ingredients and preparation steps for a traditional schnitzel dish.
 - **Nutritional Table**: Provides information about various vegetables, such as glycemic load, available carbs, and beta-carotene content.
 - **Responsive Layout**: Designed to work well on different screen sizes, centered content, and harmonious design.
-- **Custom Fonts**: Uses Google Fonts (`Courgette` and `Roboto Condensed`) for a polished look.
+- **Custom Fonts**: Uses Google Fonts (`Cougette` and `Roboto Condensed`) for a polished look.
 - **External Links**: Links to trusted resources for more recipes and information.
 
 ## File Structure
